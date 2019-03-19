@@ -17,9 +17,6 @@ collections:
   menu-corporate:
     title: menu_corporate
     output: true
-  products:
-    title: products
-    output: true
   stories:
     title: stories
     output: true
