@@ -11,6 +11,9 @@ collections:
   categories:
     title: categories
     output: true
+  cluster:
+    title: cluster
+    output: true
   menu-corporate:
     title: menu_corporate
     output: true
