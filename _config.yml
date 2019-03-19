@@ -35,4 +35,14 @@ defaults:
     - 
     story_text1: 
     story_video: 
+- scope:
+    path: ''
+    type: storie_title
+  values:
+    layout: 
+    storie_title1: 
+    storie_content1: 
+    storie_title2: 
+    storie_content2: 
+    boutton_form:
 permalink: pretty
