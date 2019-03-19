@@ -8,11 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
+  cluster:
+    title: barre
+    output: true
   categories:
     title: categories
-    output: true
-  cluster:
-    title: cluster
     output: true
   menu-corporate:
     title: menu_corporate
