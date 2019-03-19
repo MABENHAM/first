@@ -11,6 +11,9 @@ collections:
   categories:
     title: categories
     output: true
+  menu-corporate:
+    title: menu_corporate
+    output: true
   stories:
     title: stories
     output: true
