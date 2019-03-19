@@ -17,7 +17,16 @@ defaults:
     permalink: "/posts/:title/"
 - scope:
     path: ''
-    type: pages
+    type: stories
   values:
-    layout: page
+    layout: 
+    stories_title:
+    stories_content:
+    safety_title1:
+    safety_title2: 
+    story_logo:
+    story_solution:
+    -
+    story_text1:
+    story_video:
 permalink: pretty
